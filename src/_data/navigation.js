@@ -5,30 +5,30 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
+      text: 'Sponsorship',
+      url: '/sponsorship/'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Archive',
+      url: '/archive/'
     },
     {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Topics',
+      url: '/topics/'
+    },
+    {
+      text: 'RSS',
+      url: '/rss.xml'
     }
   ],
   bottom: [
     {
-      text: 'Style guide',
-      url: '/styleguide/'
+      text: 'Sponsorship',
+      url: '/sponsorship/'
     },
     {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Disclosure',
+      url: 'https://jaycuthrell.com/disclosure'
     }
   ]
 };

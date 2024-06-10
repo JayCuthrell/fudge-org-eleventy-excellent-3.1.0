@@ -1,21 +1,22 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'Eleventy Excellent';
-export const siteDescription = 'Eleventy starter for building modern, resilient websites';
+export const shortSiteName = 'Fudge Sunday';
+export const siteName = 'Fudge Sunday 🤔💡🤯🤓';
+export const siteDescription = 'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔💡🤯🤓 weekly newsletter';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Lene Saile', // i.e. Lene Saile - page / blog author's name. Must be set.
+  name: 'Jay Cuthrell', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
-  email: 'hola@lenesaile.com', // i.e. hola@lenesaile.com - email of the author
-  website: 'https://www.lenesaile.com' // i.e. https.://www.lenesaile.com - the personal site of the author
+  email: 'jay@cuthrell.com', // i.e. hola@lenesaile.com - email of the author
+  website: 'https://jaycuthrell.com' // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 export const creator = {
-  name: 'Lene Saile', // i.e. Lene Saile - creator's (developer) name.
-  email: 'hola@lenesaile.com',
-  website: 'https://www.lenesaile.com',
-  social: 'https://front-end.social/@lene'
+  name: 'Jay Cuthrell', // i.e. Lene Saile - creator's (developer) name.
+  email: 'jay@cuthrell.com',
+  website: 'https://jaycuthrell.com',
+  social: 'https://cuthrell.com/@jay'
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#DD4462'; //  Manifest: defines the default theme color for the application
@@ -25,8 +26,8 @@ export const opengraph_default_alt =
   "Visible content: An Eleventy starter with CUBE CSS, Cube CSS, Every Layout, Design Tokens and Tailwind for uitility classes. A workflow for building modern and resilient websites, introduced by Andy Bell's project buildexcellentwebsit.es"; // alt text for default meta image"
 export const blog = {
   // RSS feed
-  name: 'My Web Development Blog',
-  description: 'Tell the word what you are writing about in your blog. It will show up on feed readers.',
+  name: 'fudge.org',
+  description: 'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔💡🤯🤓 weekly newsletter',
   // feed links are looped over in the head. You may add more to the array.
   feedLinks: [
     {
@@ -83,4 +84,4 @@ export const viewRepo = {
   allow: true,
   infoText: 'View this page on GitHub'
 };
-export const easteregg = true;
+export const easteregg = false;
