@@ -17,7 +17,7 @@ First, I created a free account on [iFramely](https://iframely.com/try).
 
 Second, I [customized the outputs offered](https://iframely.com/settings/cards).
 
-![Design your cards with iFramely](/assets/images/screenshots/2024-02-04-16-18-40.png)
+![Design your cards with iFramely](/images/screenshots/2024-02-04-16-18-40.png)
 
 Third, I gathered all the bookmarks I had been considering for sharing in the newsletter and did manual testing for a variety of embedded results. *(Yes, my reading is a bit nerdy.)*
 
