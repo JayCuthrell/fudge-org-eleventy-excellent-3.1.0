@@ -3,21 +3,6 @@ title: "11ty iFramely Bookmarks"
 description: "A look at bookmarks as a reading list presented using 11ty and iFramely"
 date: 2024-02-04
 tags: 
-  - newsletter
-  - bookmarks
-  - zettelkasten
-  - cxl
-  - pcie
-  - fabrics
-  - hpc
-  - nsa
-  - eap
-  - tls
-  - wifi
-  - ccc
-  - 11ty
-  - iframely
-  - travel
 ---
 
 I'm truly enjoying [11ty](/topics/11ty/). I'm also looking to recapture some of the layout options I still miss from Revue (RIP) for unfurled cards the created flexible previews of embedded URLs within my newsletter.
